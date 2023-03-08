@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL:(https://my-order-summary-design.netlify.app)
+- Live Site URL:(https://chibuzordev.github.io/web-portfolio-order-summary-page.io/)
 
 ## My process
 
@@ -53,6 +53,6 @@ How to independently work on grids and diplays without libraries and frameworks
 
 ## Author
 
-- Website - [Chibuzor Nwachukwu](https://www.thechibuzor.netlify.app)
+- Website - [Chibuzor Nwachukwu](https://chibuzordev.github.io)
 - Frontend Mentor - [@chibuzordev](https://www.frontendmentor.io/profile/chibuzordev)
 
